@@ -7,7 +7,7 @@ This repository contains projects that I've done as an Energy Climate Analyst Fe
 Initially coming from an IT background has helped me quickly pickup GIS experience, and the GIS/data analysis experience I've gained within the Baltimore City Government has also increased my interest in helping develop and serve communties.
 
 Project Breakdowns  
-  - Baltimore City Rec & Parks Lighting Projects:
+  - Baltimore City Rec & Parks Lighting Projects (Excel & ArcGIS Visualizations):
       - Created a PivotTable within Microsoft Excel to illustrate which districts the Baltimore City Government's Energy Division will be taking on lighting upgrade projects for Baltimore City Rec & Parks, which types of lights will be upgraded (metal-halide, high-pressure sodium, mercury-vapor, or halogen), how many lights will be upgraded in each of the 89 sites, and how much the annual kWh savings would be for the Baltimore City as a result of carrying out these upgrades.
       - Used ArcGIS to supplement that PivotTable with a proportional map & heat map (along with their corresponding legends) to illustrate the findings from the PivotTable previously mentioned on a high-level, to Baltimore City Rec & Parks and the Energy Division within Baltimore City's Department of General Services.
 
