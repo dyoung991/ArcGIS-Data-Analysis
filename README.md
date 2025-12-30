@@ -15,4 +15,4 @@ Project Breakdowns
       - Gathered the required data and separated it into different excel sheets to create an ArcGIS Map of the locations of Publicly Available EVSE stations within the City of Baltimore, which included the location, address	longitude/latitutde coordinates, property owner, accessibility (type), vendor (name), number of ports, and level (charger level), which I configured a popup to display when users click on an icon on the map.
 
   - Fleet Energy Use - FY23 to FY24 Cost Analysis Comparison):
-      - Analyzed energy data for fleet operated buildings within Energy Cap to compare the costs/level of utilization of energy over the past two fiscal years.
+      - Analyzed energy data for fleet operated buildings within Energy Cap to compare the costs/level of utilization of energy over the past two fiscal years (FY 23/24 to FY 24/25).
