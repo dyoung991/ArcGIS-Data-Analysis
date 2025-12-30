@@ -13,5 +13,8 @@ Baltimore City Rec & Parks Lighting Projects:
 - Created a PivotTable within Microsoft Excel to illustrate which districts the Baltimore City Government's Energy Division will be taking on lighting upgrade projects for Baltimore City Rec & Parks, which types of lights will be upgraded (metal-halide, high-pressure sodium, mercury-vapor, or halogen), how many lights will be upgraded in each of the 89 sites, and how much the annual kWh savings would be for the Baltimore City as a result of carrying out these upgrades.
 - Used ArcGIS to supplement that PivotTable with a proportional map & heat map (along with their corresponding legends) to illustrate the findings from the PivotTable previously mentioned on a high-level, to Baltimore City Rec & Parks and the Energy Division within Baltimore City's Department of General Services.
 
+City of Baltimore Publicly Available EVSE Mapping Project (in ArcGIS):
+- Gathered the required data and separated it into different sheets to create an ArcGIS Map of the locations of Publicly Available EVSE stations within the City of Baltimore, which included the location, address	longitude/latitutde coordinates, property owner, accessibility (type), vendor (name), number of ports, and level (charger level), which I configured a popup to display when users click on an icon on the map.
 
+- 
  
